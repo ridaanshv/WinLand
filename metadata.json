@@ -1,0 +1,6 @@
+{
+  "name": "WinLand",
+  "description": "Sleek minimalist Dynamic Island for Windows with media controls, Gemini AI intelligence, image & video studio, synced clipboard, indexed local file search, live hardware benchmarks, Gmail & Google Tasks, Google Maps, and custom developer widget plugins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
